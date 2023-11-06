@@ -7,7 +7,7 @@ Network Integration and Configuration: A CCNA Packet Tracer Simulation
 </h4>
 
 ## Project Overview
-"Network Integration and Configuration" is a sophisticated network infrastructure project realized through the simulation capabilities of Cisco Packet Tracer. This project demonstrates the integration of various networking technologies to create a scalable, secure, and robust network model that can be employed in enterprise environments.
+"NetSimulate" is a sophisticated network infrastructure project realized through the simulation capabilities of Cisco Packet Tracer. This project demonstrates the integration of various networking technologies to create a scalable, secure, and robust network model that can be employed in enterprise environments.
 
 The project was initiated to address the need for a comprehensive understanding of how different networking layers and protocols interact in a complex system. The primary focus was to simulate an end-to-end network that is not only functional but also adheres to industry standards for performance and security.
 
@@ -30,7 +30,7 @@ The project was initiated to address the need for a comprehensive understanding 
 
 ## Getting Started
 
-To engage with the "Network Integration and Configuration" simulation:
+To engage with the simulation:
 
 1. Install the latest version of Cisco Packet Tracer.
 2. Clone or download the repository to your local machine.
@@ -62,7 +62,7 @@ Key takeaways from the project included:
 
 ### Conclusion
 
-> "Network Integration and Configuration: A CCNA Packet Tracer Simulation" is a comprehensive project showcasing a well-rounded approach to network construction and management. It serves as a proof of concept for deploying a multi-faceted network architecture in a simulated environment.
+> "NetSimulate" is a comprehensive project showcasing a well-rounded approach to network construction and management. It serves as a proof of concept for deploying a multi-faceted network architecture in a simulated environment.
 
 ### Disclaimer
 
