@@ -38,7 +38,7 @@ To engage with the "Network Integration and Configuration" simulation:
 4. Review the configuration scripts included to understand the setup and functionality.
 5. Use the simulation environment to conduct network experiments and further your understanding of network management and troubleshooting.
 
-## Outcomes
+### Outcomes
 
 The project yielded:
 
@@ -47,7 +47,7 @@ The project yielded:
 - Enhanced understanding of network protocols and their synergistic operations.
 
 
-## Lessons Learned
+### Lessons Learned
 
 Key takeaways from the project included:
 
@@ -56,13 +56,13 @@ Key takeaways from the project included:
 - Proficiency in troubleshooting techniques that are essential for maintaining network reliability.
 
 
-## Future Scope
+### Future Scope
 
-There is potential for project expansion to encompass more complex networking constructs, such as integrated VoIP services, wireless networking capabilities, and advanced security features. The project lays a groundwork that invites exploration into areas like network automation and cloud services.
+> There is potential for project expansion to encompass more complex networking constructs, such as integrated VoIP services, wireless networking capabilities, and advanced security features. The project lays a groundwork that invites exploration into areas like network automation and cloud services.
 
-## Conclusion
+### Conclusion
 
-"Network Integration and Configuration: A CCNA Packet Tracer Simulation" is a comprehensive project showcasing a well-rounded approach to network construction and management. It serves as a proof of concept for deploying a multi-faceted network architecture in a simulated environment.
+> "Network Integration and Configuration: A CCNA Packet Tracer Simulation" is a comprehensive project showcasing a well-rounded approach to network construction and management. It serves as a proof of concept for deploying a multi-faceted network architecture in a simulated environment.
 
 ### Disclaimer
 
