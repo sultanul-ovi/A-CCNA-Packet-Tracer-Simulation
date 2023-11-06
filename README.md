@@ -1,6 +1,5 @@
 <h1 align="center">
-   <!-- Replace placeholder with actual image URL -->
-   <img src="https://placeholder.com/path-to-network-banner.png" width="800" height="400" />
+   <img src="https://github.com/sultanul-ovi/Cisco-Packet-Tracer-Project/blob/main/banner.png" width="800" height="400" />
 </h1>
 
 <h4 align="center">
